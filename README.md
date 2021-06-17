@@ -19,4 +19,6 @@ You can start by writing a `main.rb` (feel free to change this name) that will p
 
 You have no limitation of time, what we expect is to have a discussion about your choices and your code implementation.
 
+To share your code, it's your choice again : send us a zip or a GitHub link !
+
 Good luck !
