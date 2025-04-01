@@ -27,6 +27,8 @@ Some sample files are located in `./input_json_files` and  `./output_csv_files`.
 
 You can start by writing a `main.rb` (feel free to change this name) that will perform the conversion when running `ruby main.rb [input_dir] [output_dir]` of all the files of the input directory into the output dir
 
+Next, you must make this utility available through a small Ruby on Rails web app : the user can upload an input file through a form, and the file is process accordingly. You do not need to worry about redownloading the file for the user : just store the generated file somewhere.. 
+
 ## Test rating criteria
 
 - clean
